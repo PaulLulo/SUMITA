@@ -3,7 +3,7 @@
 #' @param  c(a,b)
 #' @return  the sumita
 #' @examples sumita_sum(a,b)
-#' @export sumita_sum
+#' @export
 
 sumita_sum <- function(a,b) {
 
